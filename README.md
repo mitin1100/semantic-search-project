@@ -32,6 +32,8 @@ Run  **python convert_json_to_mongo.py**
 
 ### 2. Test on local
 
+▶️ [[Video demo]](https://youtu.be/KMbVC_cVaUY)
+
 _updating . . ._
 
 ### 3. Dockerize app and ollama
