@@ -1,0 +1,8 @@
+/semantic_search_web/src/ollama
+/semantic_search_web/src/.env
+/semantic_search_web/src/.pem
+/semantic_search_web/src/ollama.crt
+/semantic_search_web/src/*__pycache__
+/semantic_search_web/src/data/transcripts
+/semantic_search_web/src/css
+/semantic_search_web/src/fonts
